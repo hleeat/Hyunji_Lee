@@ -1,4 +1,4 @@
-<div align= "center">
+<div text-align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=120&text=Hi,%20this%20is%20Hyunji%20Lee&animation=fadeIn&fontColor=000000&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
