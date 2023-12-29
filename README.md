@@ -4,8 +4,7 @@
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요☺️ </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 열정적인 도전자로, 새로운 기회와 경험을 항상 환영하는
-        프로그래머 입니다. </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사랑스러운 도전자로, 큐티섹시뽀쨕 프로그래머 이현지 입니당. </div>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I am a passionate challenger, always welcoming new opportunities and experiences as a programmer </div>
 </div>
 <div style="text-align: left;">
