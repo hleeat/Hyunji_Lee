@@ -40,6 +40,34 @@
     </div>
 </div>
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏫 Education </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  분당중앙고등학교 졸업 (2015.03. ~ 2018.01.)<br/>
+    Cambridge International Education (2018.01 ~ 2019.08.)<br/>
+    홍콩 과학 기술 대학교 Hong Kong University of Science and Technology 졸업 (2019.09 ~ 2023.10.)<br/></div>
+</div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📖 PROJECTS & RESEARCH </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  A House Price Prediction, FaceMask Detection, and Video Prediction<br/>
+    Medical Image Analysis<br/>
+    Fine-tuning GPT3.5<br/>
+    Rating Prediction and Sentiment Analysis Projects<br/>
+    </div>
+</div>
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏃‍♀️ LEADERSHIP & EXTRACURRICULAR ACTIVITIES
+ </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HKUST Sino One-million Entrepreneurship Competition	Hong Kong - TravelUS <br/>
+    HKUST Students’ Union (HKUSTSU)	Hong Kong - IT Manager, Korean Students’ Association (KSA)<br/>
+    <br/>
+    </div>
+</div><div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 INTERNSHIP
+ </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> HKUST Information Technology Services Center	Hong Kong - Student Helper, Programmer	
+    <br/>
+    </div>
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div style="text-align: left;"> 
     <a href="https://www.instagram.com/hyj_32/"> 
