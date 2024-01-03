@@ -9,6 +9,10 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> I am a passionate challenger, always welcoming new opportunities and experiences as a programmer </div>
 </div>
 <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Introduce Myself in One Word </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> InnovAdapt: '혁신(Innovation)'과 '적응(Adaptation)'을 결합한 것으로, 기술적인 변화와 새로운 도전에 대한 지속적인 학습과 적응력을 갖추려고 노력하는 사람입니다.</div>
+</div>
+<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div style="text-align: left;"> 
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
