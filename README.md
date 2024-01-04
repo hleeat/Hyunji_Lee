@@ -67,6 +67,15 @@
     <br/>
     </div>
 </div>
+</div><div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📒 AWS Instance Comparison
+ </h2>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <a href="https://www.notion.so/Hyunji-LEE-e6fdb9b3f80f40eb864e36730cb05181?pvs=4">
+        Click here to watch details. 
+        </a> 
+    </div>
+</div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div style="text-align: left;"> 
